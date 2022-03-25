@@ -1,0 +1,7 @@
+sn_u_0001;1;Hi!;24/05/2021-12:33;đã xem
+sn_u_0001;2;What is your name?;24/05/2021-12:33;đã xem
+sn_u_0002;3;Ok , I'm here!;24/05/2021-12:33;đã xem
+sn_u_0001;4;ba bê?;24/05/2021-12:33;đã xem
+sn_u_0002;5;Mình chưa!;24/05/2021-12:33;đã xem
+sn_u_0001;6;Bạn nghĩ sao về một buổi hẹn hò với mình?;24/05/2021-12:33;đã xem
+sn_u_0002;7;Điều đó thật tuyệt vời!;24/05/2021-12:33;chưa xem
